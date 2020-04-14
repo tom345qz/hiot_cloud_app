@@ -17,4 +17,5 @@ public class TestPresenter {
             view.showMessage("登录失败");
         }
     }
+
 }
